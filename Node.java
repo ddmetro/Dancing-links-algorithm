@@ -1,6 +1,6 @@
 public class Node
 {
-    Node left;
+    	Node left;
 	Node right;
 	Node up;
 	Node down;
@@ -18,5 +18,5 @@ public class Node
 	public String toString()
 	{
 		return name;
-	} 
+	}
 }
