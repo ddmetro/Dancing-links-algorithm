@@ -8,7 +8,7 @@ import java.io.FileNotFoundException;
 
 public class SudokuSolver extends DLXSolver
 {
-  int size = 9;
+  	int size = 9;
 
 	public SudokuSolver(int sudokuSquareLength)
 	{
