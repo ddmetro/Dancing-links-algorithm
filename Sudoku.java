@@ -1,7 +1,6 @@
 public class Sudoku 
 {
-
-    public static void main(String[] args) throws Exception
+    	public static void main(String[] args) throws Exception
 	{
 		Sudoku solver = new Sudoku();
 		int T = 1;
